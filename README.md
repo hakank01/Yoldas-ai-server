@@ -1,5 +1,5 @@
-# Yoldas-ai-server
-Package.json
+# yoldas-ai-server
+package.json
 <!DOCTYPE html>
 <html lang="tr">
 <head>
